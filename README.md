@@ -69,7 +69,7 @@ Recipes Exporter 从内存中读取指定模组的所有配方数据，并以多
 /recipesexporter export minecraft kubejs crafting_shaped
 
 # 导出 thermal 的熔炉配方（json_single 模式）
-/recipesexporter export thermal json_single minecraft:smelting
+/recipesexporter export thermal json_single smelting
 ```
 
 ### 查询配方类型
